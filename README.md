@@ -28,13 +28,10 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que permita visuali
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
-
+Mapear o ecossistema Industrial Regional
+* Mapear o ecossistema industrial e de serviços de São José Dos Campos e região
+* Identificar os principais setores, processos produtivos e desafios tecnológicos
+* O projeto sera desenvolvido com o CADI
 
 ## Tecnologias Utilizadas
 
